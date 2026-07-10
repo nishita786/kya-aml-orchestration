@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Coverage
+coverage/
+
+# Build
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.swp
