@@ -397,7 +397,7 @@ Creation of a new KYC request through the API.
 </p>
 ---
 
-## 9. KYC Request by ID
+## 8. KYC Request by ID
 
 Retrieves a single KYC request using its unique identifier.
 
@@ -407,7 +407,7 @@ Retrieves a single KYC request using its unique identifier.
 
 ---
 
-## 10. KYC Status Transition Validation
+## 9. KYC Status Transition Validation
 
 Demonstrates validation using the State Machine.
 
@@ -417,7 +417,7 @@ Demonstrates validation using the State Machine.
 
 ---
 
-## 11. MongoDB Database
+## 10. MongoDB Database
 
 MongoDB Atlas database used for persistent storage.
 
@@ -427,7 +427,7 @@ MongoDB Atlas database used for persistent storage.
 
 ---
 
-## 12. Users Collection
+## 11. Users Collection
 
 Stored user records.
 
@@ -437,7 +437,7 @@ Stored user records.
 
 ---
 
-## 13. KYC Collection
+## 12. KYC Collection
 
 Stored KYC verification requests.
 
@@ -447,7 +447,7 @@ Stored KYC verification requests.
 
 ---
 
-## 14. Factory Pattern
+## 13. Factory Pattern
 
 Vendor creation handled through Factory Pattern.
 
@@ -457,7 +457,7 @@ Vendor creation handled through Factory Pattern.
 
 ---
 
-## 15. Adapter Pattern
+## 14. Adapter Pattern
 
 Vendor integrations implemented through Adapter Pattern.
 
@@ -467,7 +467,7 @@ Vendor integrations implemented through Adapter Pattern.
 
 ---
 
-## 16. State Machine
+## 15. State Machine
 
 Workflow state validation implementation.
 
@@ -477,7 +477,7 @@ Workflow state validation implementation.
 
 ---
 
-## 17. AML Service
+## 16. AML Service
 
 AML screening and risk evaluation logic.
 
@@ -487,7 +487,7 @@ AML screening and risk evaluation logic.
 
 ---
 
-## 18. Audit Service
+## 17. Audit Service
 
 Audit logging implementation for compliance tracking.
 
@@ -497,7 +497,7 @@ Audit logging implementation for compliance tracking.
 
 ---
 
-## 19. System Architecture
+## 18. System Architecture
 
 Overall architecture of the application.
 
