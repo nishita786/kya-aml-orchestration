@@ -395,17 +395,6 @@ Creation of a new KYC request through the API.
 <p align="center">
 <img src="screenshots/KYC verification request creation.png" width="900">
 </p>
-
----
-
-## 8. All KYC Retrieved
-
-Displays all KYC records associated with the authenticated user.
-
-<p align="center">
-<img src="screenshots/all KYC retrieved.png" width="900">
-</p>
-
 ---
 
 ## 9. KYC Request by ID
@@ -779,8 +768,6 @@ This project strengthened practical knowledge in:
 **Nishita Kumari**
 
 Computer Science Engineering (Data Science)
-
-Backend Developer | Data Engineering Enthusiast
 
 LinkedIn:
 https://www.linkedin.com/in/nishitakr/
